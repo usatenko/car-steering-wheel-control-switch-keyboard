@@ -13,4 +13,6 @@ Pinout:
 
 Upload the code to ESP32 and that's it.
 
-You may need to adopt values that represent button values on line 18.
+You may need to adopt values that represent button values on line 18, because resistance of the cables that connect ESP32 and SCS - differ, so you may have different values, just check Serial Monitor for the real values in Arduino IDE.
+
+On the head unit connect the Bluetooth "Ford Wheel Keys" and map the keyboard keys to specific actions.
