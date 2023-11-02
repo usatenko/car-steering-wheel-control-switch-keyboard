@@ -1,6 +1,6 @@
 # car-steering-wheel-control-switch-keyboard
 
-After upgrading the car head unit to selfmade RaspberryPI 4 with Android https://konstakang.com/devices/rpi4/AOSP12/ the question arose, what to do with steering wheel control switch.
+After upgrading the car head unit to a selfmade RaspberryPI 4 with Android https://konstakang.com/devices/rpi4/AOSP12/ onboard, the question arose: "what to do with steering wheel control switch".
 So, it can be easily upgraded to a Bluetooth keyboard which just connects to the head unit wirelessly.
 ![image](https://github.com/usatenko/car-steering-wheel-control-switch-keyboard/assets/1710344/754fe04e-78db-49d1-b514-91ca1a498978)
 
