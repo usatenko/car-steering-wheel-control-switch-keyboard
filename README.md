@@ -12,4 +12,5 @@ Pinout:
 - Connect pin 2 from SCS to ESP32 GPIO2
 
 Upload the code to ESP32 and that's it.
-You may need to adopt button values.
+
+You may need to adopt values that represent button values on line 18.
